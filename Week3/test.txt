@@ -1,0 +1,4 @@
+This is a text.
+It is only a testing text.
+Handle in Python.
+Python is great!
