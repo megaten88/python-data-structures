@@ -26,7 +26,9 @@ print(friends[:3])
 random = list() #constructor
 random.append(1)
 random.append(2)
+random.insert(0,3) # insert() inserts an element at the defined position in the first argument
 print(random)
+
 #check item on list
 print(2 in random)
 #Built-in functions
